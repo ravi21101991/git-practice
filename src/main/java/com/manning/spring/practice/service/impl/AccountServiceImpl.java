@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
+ * This Service component deals with account related transactions
  * Created by ravinair on 29/10/16.
  */
 
